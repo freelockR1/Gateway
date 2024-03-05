@@ -1,0 +1,88 @@
+##
+#    Copyright (c) 2024, NextGate Solutions All Rights Reserved.
+#
+#    This program, and all the NextGate Solutions authored routines referenced herein,
+#    are the proprietary properties and trade secrets of NextGate Solutions.
+#
+#    Except as provided for by license agreement, this program shall not be duplicated,
+#    used, reversed engineered, decompiled, disclosed, shared, transferred, placed in a
+#    publicly available location (such as but not limited to ftp sites, bit torrents,
+#    shared drives, peer to peer networks, and such) without  written consent signed by
+#    an officer of NextGate Solutions.
+#
+#    DISCLAIMER:
+#
+#    This software is provided as is without warranty of any kind. The entire risk as to
+#    the results and performance of this software is assumed by the licensee and/or its
+#    affiliates and/or assignees. NextGate Solutions disclaims all warranties, either
+#    expressed or implied, including but not limited to the implied warranties of
+#    merchantability, fitness for a particular purpose, title and non-infringement, with
+#    respect to this software.
+#
+#    - version control -
+#    $Id: License.java 44944 2020-05-10 02:34:23Z peter.berkman $
+##
+
+##
+#    Generated: 03/04/2024 22:39:40 +0000
+##
+
+
+##  #######################################################################################
+##  
+##      I M P O R T A N T:   M U S T   R E A D
+##  
+##  #######################################################################################
+##  
+##  
+##  THIS LICENSE HAS BEEN GENERATED SPECIFICALLY FOR: GPACA: GRADeS PACA(772) (last config update [Tue Mar 28 15:48:20 UTC 2023])
+##  
+##  THIS LICENSE FILE IS ONLY VALID FOR THE REQUESTED ENVIRONMENT: TEST
+##  
+##  MODIFYING OR TAMPERING WITH THIS FILE IS A VIOLATION OF YOUR SOFTWARE
+##  LICENSE AGREEMENT AND WILL CAUSE THE LICENSED SOFTWARE TO FAIL.
+##  
+##  #######################################################################################
+
+####
+####
+##   :: License details ::
+####
+####
+
+##  
+##  Do not modify any of the values below.  It will cause the Licensed Software to fail.
+##  
+
+customer.name=GRADeS PACA
+customer.shortname=GPACA
+customer.dbid=772
+partner.name=Enovacom
+partner.shortname=ENOVACOM
+partner.dbid=39
+product.code=Person
+product.desc=Person Registry (EMPI)
+product.version=11.2
+product.customapp.name=
+environment.code=TEST
+environment.description=Testing
+db.schema=H2LXTOP104
+namevalue.001=
+namevalue.002=
+namevalue.003=
+namevalue.004=
+namevalue.005=
+namevalue.006=
+namevalue.007=
+namevalue.008=
+namevalue.009=
+namevalue.010=
+max.tenants=1
+max.euids=1400000
+max.records=10000000
+max.transactions=0
+key.generated=20240304
+key.version=11.2.0.0
+key.renewal=20250305
+key.public=MIIBuDCCASwGByqGSM44BAEwggEfAoGBAP1/U4EddRIpUt9KnC7s5Of2EbdSPO9EAMMeP4C2USZpRV1AIlH7WT2NWPq/xfW6MPbLm1Vs14E7gB00b/JmYLdrmVClpJ+f6AR7ECLCT7up1/63xhv4O1fnxqimFQ8E+4P208UewwI1VBNaFpEy9nXzrith1yrv8iIDGZ3RSAHHAhUAl2BQjxUjC8yykrmCouuEC/BYHPUCgYEA9+GghdabPd7LvKtcNrhXuXmUr7v6OuqC+VdMCz0HgmdRWVeOutRZT+ZxBxCBgLRJFnEj6EwoFhO3zwkyjMim4TwWeotUfI0o4KOuHiuzpnWRbqN/C/ohNWLx+2J6ASQ7zKTxvqhRkImog9/hWuWfBpKLZl6Ae1UlZAFMO/7PSSoDgYUAAoGBALVkseJTv6e95a+3aDMXBT80N+LxC8Re3R/76B1IZWJQtYkzwTxUJL5tvbqZxbXnKS0IdnfVmWqVUXr2zB9CZa582Txiu3dxxLoXjx1pg5nPOa0GdPbquB6EXYAQNSAbBiLF506Xdrh5CVSKWOuYKe6/Q0zebFf+tuYlGy0WMDWx
+key.signature=MCwCFCMbpsbrteWl4xsV3gSiozg3lwZxAhQb12jnHHMRSj68AfVeSeudSZav2A==
